@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-30T09:16:25.718Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="OrsjE3nHyCdcvZXd0DTw" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-30T09:19:28.399Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Ptfml2wSAFMYYsosWCJV" version="20.8.13" type="github">
   <diagram name="第 1 页" id="pyim4qZ4rd5q3mOowQ-e">
     <mxGraphModel dx="2120" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,6 +170,21 @@
             <mxPoint x="1360" y="515" as="sourcePoint" />
             <mxPoint x="1360" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yMuCJ4eydJoWDQ9Kz_5B-50" value="&lt;font size=&quot;1&quot; color=&quot;#e54545&quot;&gt;&lt;b style=&quot;font-size: 32px;&quot;&gt;相交检测&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yMuCJ4eydJoWDQ9Kz_5B-53" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=32;fontColor=#E54545;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="800" as="sourcePoint" />
+            <mxPoint x="1310" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMuCJ4eydJoWDQ9Kz_5B-54" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#006eff&quot;&gt;渐隐&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="750" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yMuCJ4eydJoWDQ9Kz_5B-55" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#006eff&quot;&gt;渐显&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="750" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
