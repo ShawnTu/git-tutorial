@@ -7,31 +7,19 @@
         <mxCell id="K0SXBpxwmkwl7hcp56vt-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="210" width="80" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="K0SXBpxwmkwl7hcp56vt-4" value="&lt;font style=&quot;color: light-dark(rgb(130, 179, 102), rgb(237, 237, 237));&quot;&gt;键盘区域&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="510" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="K0SXBpxwmkwl7hcp56vt-5" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="380" as="sourcePoint" />
             <mxPoint x="240" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K0SXBpxwmkwl7hcp56vt-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" edge="1" parent="1" source="K0SXBpxwmkwl7hcp56vt-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="365" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="190" y="405" />
-              <mxPoint x="190" y="365" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="K0SXBpxwmkwl7hcp56vt-6" value="&lt;font style=&quot;color: light-dark(rgb(214, 182, 86), rgb(237, 237, 237));&quot;&gt;光标位置&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="390" width="60" height="30" as="geometry" />
+          <mxGeometry x="210" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K0SXBpxwmkwl7hcp56vt-8" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="440" width="80" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="K0SXBpxwmkwl7hcp56vt-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
+        <mxCell id="K0SXBpxwmkwl7hcp56vt-3" value="&lt;font style=&quot;color: light-dark(rgb(130, 179, 102), rgb(237, 237, 237));&quot;&gt;键盘区域&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="500" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K0SXBpxwmkwl7hcp56vt-10" value="&lt;font style=&quot;color: light-dark(rgb(108, 142, 191), rgb(109, 81, 0));&quot;&gt;文本区域&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
