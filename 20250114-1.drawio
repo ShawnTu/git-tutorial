@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K0SXBpxwmkwl7hcp56vt-6" value="&lt;font style=&quot;color: light-dark(rgb(214, 182, 86), rgb(237, 237, 237));&quot;&gt;光标位置&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="210" y="380" width="60" height="30" as="geometry" />
+          <mxGeometry x="150" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K0SXBpxwmkwl7hcp56vt-8" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="440" width="80" height="110" as="geometry" />
